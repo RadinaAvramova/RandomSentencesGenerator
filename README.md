@@ -1,21 +1,29 @@
 # Random Sentences Generator Application
 A console-based JavaScript implementation of the "Random Sentences Generator".
 
-![unnamed](https://user-images.githubusercontent.com/99686592/218146158-c4a13ba1-d8a4-494e-8523-555d1c94af58.png)
+Short Description:
 
-This random sentence generator is just for fun! These sentences can provide humour and be a cool way to surprise others by sharing a stand-
-out sentence on social media platforms and gathering your network's reaction.
+The computer generate random words and create a sentence.When the user press button Enter the first sentence is displayed with time delay of 0.5 seconds between each word.After that the user will be asked if he wants to create more sentences or to close the program
 
-![image](https://user-images.githubusercontent.com/99686592/218274944-c1d04036-5fce-4f39-ba4f-0af6e15cd5b7.png)
+How it works:
+
+The user is asked to press Enter in order to create a sentence.
+![image](https://github.com/RadinaAvramova/RandomSentencesGenerator/assets/99686592/de39bb6b-23e9-4f80-a1cd-b892f8672132)
+
+The sentence will be created and displayed with time delay of 0.5 seconds between each word.The user will be asked if he wants to create more sentences.There are 2 options:
+
+![image](https://github.com/RadinaAvramova/RandomSentencesGenerator/assets/99686592/47a56185-de96-426c-94d4-14ace5444f55)
+
+1.y - the user will be asked how many sentences he wants to be created and displayed.Minimum number of sentences is 1.Maximum number of sentences is 10.
+
+![image](https://github.com/RadinaAvramova/RandomSentencesGenerator/assets/99686592/6012ccd3-609d-4817-a42c-a228abdfa263)
+
+2.n - exit from the program
+
+3.any other character will display error message
 
 
 
-![image](https://user-images.githubusercontent.com/99686592/218274962-7f7068e5-cc81-4153-8716-befb9e9d0a5b.png)
 
-
-![image](https://user-images.githubusercontent.com/99686592/218274977-156975bc-bc85-421d-99df-11b027922982.png)
-
-
-![image](https://user-images.githubusercontent.com/99686592/218274997-4abc9042-fc7a-46d0-b002-62b8f8bf4824.png)
 
 
