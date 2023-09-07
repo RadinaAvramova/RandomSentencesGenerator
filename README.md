@@ -22,6 +22,20 @@ The sentence will be created and displayed with time delay of 0.5 seconds betwee
 
 3.any other character will display error message
 
+![image](https://github.com/RadinaAvramova/RandomSentencesGenerator/assets/99686592/8769260c-2edf-4034-a827-2ce09154aab9)
+
+The selected number of sentences from the user will be generated and displayed :
+
+![image](https://github.com/RadinaAvramova/RandomSentencesGenerator/assets/99686592/a77bd350-4b79-42ca-a082-37f44b76eeb0)
+
+Live Demo : 
+
+Click the link and press run to play the game: https://replit.com/@RadinaAvramova/RandomSentencesGenerator#index.js
+
+
+
+
+
 
 
 
